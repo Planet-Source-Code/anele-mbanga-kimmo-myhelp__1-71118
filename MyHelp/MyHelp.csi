@@ -1,0 +1,15 @@
+[History]
+B0=MyHelp/frmKB/toolKB_ButtonClick
+B1=MyHelp/modKB/RemoveUselessTopics
+B2=MyHelp/frmKB/toolKB_ButtonMenuClick
+B3=MyHelp/frmKB/treeDms_NodeClick
+B4=MyHelp/frmKB/UpdateContents
+B5=MyHelp/frmKB/RenameChildTopics
+B6=MyHelp/frmKB/treeDms_AfterLabelEdit
+B7=MyHelp/frmKB/RenameTopic
+B8=MyHelp/frmKB/RenameTopicLinks
+B9=MyHelp/modKB/Context_Validate
+B10=MyHelp/frmKB/RenameTopicProperties
+B11=MyHelp/frmKB/toolDocument_ButtonMenuClick
+B12=MyHelp/frmKB/toolDocument_ButtonClick
+B13=MyHelp/frmKB/EnableDisableToolDocument
